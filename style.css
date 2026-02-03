@@ -1023,3 +1023,50 @@ article .split-card {
 article .split-card h4 {
   margin-top: 0;
 }
+/* SNS Share Buttons */
+.share-buttons {
+  margin: 3rem 0;
+  text-align: center;
+}
+
+.share-buttons h3 {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  border-left: none;
+  padding-left: 0;
+}
+
+.share-links {
+  display: flex;
+  justify-content: center;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+}
+
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.7rem 1.2rem;
+  border-radius: 999px;
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.9rem;
+  transition: opacity 0.2s;
+}
+
+.share-btn:hover {
+  opacity: 0.9;
+  color: #fff;
+}
+
+.share-btn.twitter {
+  background: #000;
+}
+
+.share-btn.facebook {
+  background: #1877f2;
+}
+
+.share-btn.line {
+  background: #06c755;
+}
