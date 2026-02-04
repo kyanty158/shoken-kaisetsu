@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 暗号資産（新規） -->
+  <url>
+    <loc>https://kyanty158.github.io/shoken-kaisetsu/posts/61-what-is-crypto.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyanty158.github.io/shoken-kaisetsu/posts/62-crypto-ranking-2026.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kyanty158.github.io/shoken-kaisetsu/posts/63-crypto-tax-nisa.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyanty158.github.io/shoken-kaisetsu/posts/64-how-to-buy-crypto.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyanty158.github.io/shoken-kaisetsu/posts/65-crypto-tsumitate.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- トップページ -->
   <url>
     <loc>https://kyanty158.github.io/shoken-kaisetsu/</loc>
